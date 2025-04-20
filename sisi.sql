@@ -1,0 +1,6 @@
+-- SQL: Structured Query Language
+-- Open terminal
+-- mysql -u root 开启mysql
+-- Use Sisi; 使用数据库Sisi
+-- show tables: 显示有哪些表
+-- select * from AllergyAlbum: 使用这个表
